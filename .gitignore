@@ -1,0 +1,26 @@
+# Target / Build directories
+target/
+dist/
+build/
+
+# Node modules
+node_modules/
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment and log files
+*.log
+.env
+.env.local
